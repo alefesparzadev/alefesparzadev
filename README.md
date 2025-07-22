@@ -12,7 +12,7 @@
 - 💡 Apasionado por la tecnología, el desarrollo backend, frontend y la nube
 - 📚 Siempre aprendiendo algo nuevo
 - 🛠️ Me gustan los proyectos que resuelven problemas reales y ayudan a mejorar habilidades
-- 🎓 Todavía estoy por terminar mi educación en Ingeniería en Sistemas Computacionales. Me encanta intering/part-timing.
+- 🎓 Todavía estoy por terminar mi educación en Ingeniería en Sistemas Computacionales.
 
 ###
   <img align="right" height="200" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif"  />
