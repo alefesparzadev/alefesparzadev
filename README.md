@@ -1,8 +1,4 @@
-
-
-<h2 align="left">¡Bienvenido a mi perfil de GitHub! Soy Alef estudiante de Ingeniería en Sistemas.</h2>
-
-<h2 align="left">👋Hola, Soy Alef Esparza</h2>
+<h1 align="left">👋Hola, Soy Alef Esparza</h1>
 
 ¡Bienvenido a mi perfil de GitHub! Soy estudiante de Ingeniería en Sistemas, actualmente finalizando mi carrera y preparándome para dar el siguiente paso hacia el mundo profesional.
 
