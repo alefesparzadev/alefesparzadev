@@ -134,6 +134,10 @@
 ---
 ###
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alefesparzadev&theme=github-dark-blue&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+###
+
 ¡Gracias por visitar mi perfil! 🚀  
 *Siempre abierto a nuevas ideas, proyectos y oportunidades.*
 
