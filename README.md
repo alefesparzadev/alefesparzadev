@@ -15,7 +15,7 @@
 - 🎓 Todavía estoy por terminar mi educación en Ingeniería en Sistemas Computacionales.
 
 ###
-  <img align="right" height="200" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif"  />
+  <img align="right" height="200" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" style="display: block; margin :auto;" />
  
 ###
 
@@ -119,8 +119,8 @@
 
 ## 📫 Contacto y Redes
 
-- 📧 **Email:** alef.esparzadev@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/alefesparza](https://linkedin.com/in/alefesparza)
+- 📧 **Email:** alefdavidesparza@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/alef-david-esparza-diaz](www.linkedin.com/in/alef-david-esparza-diaz)
 - 💻 **Portafolio (en construcción):** próximamente...
 
 ---
@@ -133,7 +133,7 @@
 
 ## 🎯 Objetivos
 
-- 🔜 Conseguir una posición como desarrollador backend o fullstack junior
+- 🔜 Conseguir una posición como desarrollador backend, frontend o fullstack junior
 - 🌱 Aprender nuevas tecnologías del ecosistema Java y el desarrollo en la nube
 - 🧠 Contribuir en proyectos open-source y seguir mejorando como profesional
 
